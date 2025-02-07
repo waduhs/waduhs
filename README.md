@@ -1,7 +1,20 @@
 <h1 align="center">Hi 👋, I'm John Victor H. Dajac</h1>
 <h3 align="center">A aspiring backend developer</h3>
 
-<h3 align="left">Connect with me:</h3>
+### Educational Background:
+🏫 **College:** [Polytechnic University of the Philippines - Main](https://www.pup.edu.ph/)
+
+      ✅ College of Computer and Information Sciences
+      ✅ Bachelor of Science in Information Technology
+      ✅ Senior Student
+            
+🏫 **Senior High School:** [AMA Computer College Caloocan]([https://www.facebook.com/LPNHSSHSMAIN](https://www.facebook.com/amacaloocancampus))
+
+      🎓 Information and Communication Technology - Animation (ICT-Animation)
+
+🏫 **Junior High School:** [San Roque National HighSchool]
+
+</div>
 <p align="left">
 </p>
 
